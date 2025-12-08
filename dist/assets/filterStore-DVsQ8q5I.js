@@ -1,1 +1,0 @@
-import{Y as r,r as o,x as a}from"./index-Bj-1hBOc.js";const n=r("filter",()=>{const e=o("");return a(e,t=>{console.log("Global filter changed:",t)}),{selectedCategory:e,setCategory:t=>{e.value=t},clearFilter:()=>{e.value=""}}});export{n as u};
