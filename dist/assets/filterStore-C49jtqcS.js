@@ -1,0 +1,1 @@
+import{a0 as r,r as o,D as a}from"./index-D1vIa7EL.js";const n=r("filter",()=>{const e=o("");return a(e,t=>{console.log("Global filter changed:",t)}),{selectedCategory:e,setCategory:t=>{e.value=t},clearFilter:()=>{e.value=""}}});export{n as u};
