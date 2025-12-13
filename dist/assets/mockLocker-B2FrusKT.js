@@ -1,1 +1,0 @@
-import{a as r}from"./mockData-UtngXjqC.js";const t=e=>new Promise(o=>setTimeout(o,e));async function s(){try{return await t(500),await r.getLockerListSelect()}catch(e){throw console.error("获取Locker列表失败:",e),e}}export{s as g};
